@@ -1,1 +1,1 @@
-# -lk-Web-Sayfas-dev1
+# Ilk-Web-Sayfasi-Odev1
